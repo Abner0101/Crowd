@@ -1,0 +1,51 @@
+{
+  "id": "1567257",
+  "name": "schoolcrowd",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "校园众包引用的图标",
+  "glyphs": [
+    {
+      "icon_id": "1312041",
+      "name": "登录",
+      "font_class": "-denglu",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "3745196",
+      "name": "校园定位",
+      "font_class": "-school",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "6544494",
+      "name": "编辑",
+      "font_class": "-bianji",
+      "unicode": "e6f9",
+      "unicode_decimal": 59129
+    },
+    {
+      "icon_id": "6544495",
+      "name": "地图",
+      "font_class": "-ditu",
+      "unicode": "e6fa",
+      "unicode_decimal": 59130
+    },
+    {
+      "icon_id": "6544497",
+      "name": "复制",
+      "font_class": "-tuceng",
+      "unicode": "e6fb",
+      "unicode_decimal": 59131
+    },
+    {
+      "icon_id": "6544501",
+      "name": "剪切板",
+      "font_class": "jianqieban",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    }
+  ]
+}
